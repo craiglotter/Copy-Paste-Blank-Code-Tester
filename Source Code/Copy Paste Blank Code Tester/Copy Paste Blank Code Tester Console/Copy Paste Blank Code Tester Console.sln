@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Copy Paste Blank Code Tester Console", "Copy Paste Blank Code Tester Console.vbproj", "{CD4DEA4E-4EC8-41A9-96EE-6FB680BB0010}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CD4DEA4E-4EC8-41A9-96EE-6FB680BB0010}.Debug.ActiveCfg = Debug|.NET
+		{CD4DEA4E-4EC8-41A9-96EE-6FB680BB0010}.Debug.Build.0 = Debug|.NET
+		{CD4DEA4E-4EC8-41A9-96EE-6FB680BB0010}.Release.ActiveCfg = Release|.NET
+		{CD4DEA4E-4EC8-41A9-96EE-6FB680BB0010}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
